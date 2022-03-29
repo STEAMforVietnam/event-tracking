@@ -48,7 +48,7 @@ REQUIREMENTS = load_requirements('requirements/base.in')
 
 setup(
     name='event-tracking',
-    version='1.0.4-giap-patch',
+    version='1.0.5',
     packages=find_packages(),
     include_package_data=True,
     license='AGPLv3 License',
